@@ -1,11 +1,11 @@
 # Steganpgraphy-Project
 
-oject helps in maintaining the privacy of the message by encrypting the information into the image without affecting the image quality.
+this project helps in maintaining the privacy of the message by encrypting the information into the image without affecting the image quality.
 
 HOME PAGE
-The pr![home](https://github.com/user-attachments/assets/634e4a1b-7cff-476b-8572-4d7a293ab1bf)
+![home](https://github.com/user-attachments/assets/634e4a1b-7cff-476b-8572-4d7a293ab1bf)
 
-OPEN IMAGE: Allows to select any image from gallery and upload it on the screen.
+OPEN IMAGE: Allows to select any image from gallery and upload it on the screen./n
 HIDE DATA: Allows to write the data to be embedden in the image on text area.
 ![image](https://github.com/user-attachments/assets/48c41577-3396-4077-a8f1-ae8e2a597751)
 
